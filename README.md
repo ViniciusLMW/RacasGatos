@@ -38,9 +38,3 @@ Se você é um amante de gatos e sabe um pouco de programação, sinta-se à von
 * **Personalize:** Sinta-se à vontade para adicionar mais informações sobre as raças, como fotos, vídeos ou curiosidades.
 * **Melhore:** Explore novas funcionalidades, como filtros de busca mais avançados ou um modo escuro para quem prefere gatos noturnos.
 * **Divirta-se:** O mais importante é se divertir enquanto cria e explora este projeto!
-
-**#gatos #programação #JavaScript #HTML #CSS #openSource**
-
-**Com esse README, você terá um guia divertido e informativo para sua aplicação, atraindo mais pessoas para o seu projeto e mostrando o seu amor pelos gatos!**
-
-**Gostaria de adicionar mais alguma coisa?**
